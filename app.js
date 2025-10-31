@@ -1,4 +1,4 @@
-const ENDPOINT = "https://script.google.com/macros/s/AKfycbwrQX5jH0pS1sDWpOClvvg5pv4RZ4XvUAmYMILQK0ZGdtxxWQbIgOTApt529F3hqZqm/exec";
+const ENDPOINT = "https://script.google.com/macros/s/AKfycbwL3HdsO9oFaRBXyuLbbxwPQBKnVOEXcdhxAmvJooMB1JqbZDu3vJ3_xPEejKZvGR1K/exec";
 const SHARED_TOKEN = "shopSecret2025";
 const JSONP_TIMEOUT_MS = 20000;
 const activeSubmissions = new Set();
@@ -908,6 +908,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
 }); // DOMContentLoaded end
+
 
 
 
